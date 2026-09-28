@@ -1,0 +1,6 @@
+name: genpark-shamir-secret-sharing-polynomial-recovery-skill
+version: 1.0.0
+description: Shamir's (k, n) threshold secret sharing scheme with Lagrange polynomial interpolation over prime fields
+command: python
+args:
+  - mcp_server.py
