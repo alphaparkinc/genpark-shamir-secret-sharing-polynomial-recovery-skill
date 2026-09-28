@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-shamir-secret-sharing-polynomial-recovery-skill"
+version = "1.0.0"
+description = "Shamir's (k, n) threshold secret sharing scheme with Lagrange polynomial interpolation over prime fields"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
