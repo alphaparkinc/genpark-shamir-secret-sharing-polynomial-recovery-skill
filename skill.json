@@ -1,0 +1,20 @@
+{
+  "name": "genpark-shamir-secret-sharing-polynomial-recovery-skill",
+  "version": "1.0.0",
+  "description": "Shamir's (k, n) threshold secret sharing scheme with Lagrange polynomial interpolation over prime fields",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "shamir-secret-sharing",
+    "threshold-cryptography",
+    "lagrange-interpolation",
+    "finite-field",
+    "key-management",
+    "python-standard-library",
+    "agent-skills",
+    "cryptography",
+    "secret-sharing",
+    "zero-knowledge"
+  ]
+}
